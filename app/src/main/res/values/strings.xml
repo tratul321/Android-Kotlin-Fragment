@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="openar" translatable="false">Open AR</string>
+    <string name="lib">How this app works</string>
+    <string name="about">About Amar Oitijjho</string>
+    <string name="hello_first_fragment" translatable="false">English / বাংলা</string>
+    <string name="take_note">Take a 5, 20 or 100 taka note</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="detect">Detect Note by Camera</string>
+    <string name="select">Select from Library</string>
+    <string name="five">5 Taka Note</string>
+    <string name="tentaka">20 Taka Note</string>
+    <string name="twentytaka">20 Taka Note</string>
+    <string name="hundred">100 Taka Note</string>
+    <string name="details" translatable="false">Funded by the EMK Center, Amar Oitijjho / আমার ঐতিহ্য is an android application that aims to spark children curiosity regarding diverse cultural heritage sites across Bangladesh, with a particular goal to connect communities living in remote, distant and underprivileged areas. This app is deisgned and developed by Architect Imamur Hossain, Architect Fariba Samia Omi, App Developer Atiqul Islam and App Developer Tasdid Hossain.
+</string>
+    <string name="instructions" translatable="false">Take a 5, 20 or 100 taka note</string>
+    <string name="second_instruction">Flaten the note if its folded. Place the currency note on a table or any flat surface. Place the note in a lighted area with the side of the note with the heritage site illustration.</string>
+    <string name="third_instruction">Click on the ‘Open AR’ button of the Amar Oitijjho app. Now select Detect notes by Camera. The app will turn on the camera. Now hold the phone in front of the note. The app will not start identifying the currency note.</string>>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

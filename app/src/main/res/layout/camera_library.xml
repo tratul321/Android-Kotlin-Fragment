@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ar_frag"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Button
+        android:id="@+id/button_cam"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="456dp"
+        android:background="@drawable/pill_bg"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/detect"
+        android:textAllCaps="false"
+        android:textColor="@color/grey"
+        app:layout_constraintEnd_toEndOf="@id/ar_frag"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@id/ar_frag"
+        app:layout_constraintTop_toTopOf="@id/ar_frag" />
+
+    <Button
+        android:id="@+id/button_library"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/pill_bg"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/select"
+        android:textAllCaps="false"
+        android:textColor="@color/grey"
+        app:layout_constraintEnd_toEndOf="@id/ar_frag"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@id/ar_frag"
+        app:layout_constraintTop_toBottomOf="@id/button_cam" />
+
+
+
+</android.support.constraint.ConstraintLayout>
