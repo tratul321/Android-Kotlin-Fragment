@@ -23,7 +23,7 @@
     <string name="instructions" translatable="false">Take a 5, 20 or 100 taka note</string>
     <string name="second_instruction">Flaten the note if its folded. Place the currency note on a table or any flat surface. Place the note in a lighted area with the side of the note with the heritage site illustration.</string>
     <string name="third_instruction">Click on the ‘Open AR’ button of the Amar Oitijjho app. Now select Detect notes by Camera. The app will turn on the camera. Now hold the phone in front of the note. The app will not start identifying the currency note.</string>>
-
+    <string name="fourth_instruction">When the note is identified, you will see the actual 3D model of the illustration on the note"s surface.</string>>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

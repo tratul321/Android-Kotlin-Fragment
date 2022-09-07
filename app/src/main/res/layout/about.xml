@@ -35,7 +35,7 @@
         android:textColor="@color/black"
         android:padding="15dp"
         android:layout_width="800px"
-        android:layout_height="650px"
+        android:layout_height="780px"
         app:layout_constraintTop_toBottomOf="@id/text_about"
         app:layout_constraintLeft_toLeftOf="@+id/about_frag"
         app:layout_constraintRight_toRightOf="@+id/about_frag"
