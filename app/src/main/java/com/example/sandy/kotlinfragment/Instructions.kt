@@ -42,7 +42,7 @@ class Instructions:Fragment()
             }
 
             else if (i == 3) {
-                v.instructions.setText("")
+                v.instructions.setText(R.string.fourth_instruction)
                 v.takanote.setImageResource(R.drawable.mosque)
                 v.note_right.visibility = View.INVISIBLE
                 v.note_left.visibility = View.INVISIBLE
@@ -50,7 +50,7 @@ class Instructions:Fragment()
         })
 
         v.right_button.setOnClickListener(View.OnClickListener {
-            if (i <4) i++;
+            if (i <3) i++;
             if(i==0){
                 v.instructions.setText(R.string.take_note)
                 v.takanote.setImageResource(R.drawable.takanote)
@@ -73,7 +73,7 @@ class Instructions:Fragment()
             }
 
             else if (i == 3) {
-                v.instructions.setText(R.string.third_instruction)
+                v.instructions.setText(R.string.fourth_instruction)
                 v.takanote.setImageResource(R.drawable.mosque)
                 v.note_right.visibility = View.INVISIBLE
                 v.note_left.visibility = View.INVISIBLE

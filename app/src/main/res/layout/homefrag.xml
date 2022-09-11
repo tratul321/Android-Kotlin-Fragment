@@ -7,10 +7,10 @@
 
     <ImageView
         android:id="@+id/app_logo"
-        android:layout_width="500px"
-        android:layout_height="500px"
+        android:layout_width="600px"
+        android:layout_height="600px"
         android:layout_marginBottom="316dp"
-        android:src="@drawable/logowhite"
+        android:src="@drawable/amaroitijjhofinallogo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
