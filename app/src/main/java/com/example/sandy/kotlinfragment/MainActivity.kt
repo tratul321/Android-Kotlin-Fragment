@@ -17,13 +17,21 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         changeLanguage();
+        if (savedInstanceState == null) {
+            // The Activity is being created for the first time, so create and
+            // add new fragments.
+            var fManager = supportFragmentManager
 
-        var fManager = supportFragmentManager
+            var tx = fManager.beginTransaction()
+            tx.add(R.id.frag, HomeFrag())
+            tx.addToBackStack(null)
+            tx.commit()
+        } else {
+            // Otherwise, the activity is coming back after being destroyed.
+            // The FragmentManager will restore the old Fragments so we don't
+            // need to create any new ones here.
+        }
 
-        var tx = fManager.beginTransaction()
-        tx.add(R.id.frag, HomeFrag())
-        tx.addToBackStack(null)
-        tx.commit()
 
     }
 
