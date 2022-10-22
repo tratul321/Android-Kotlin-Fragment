@@ -22,7 +22,14 @@
 </string>
     <string name="instructions" translatable="false">Take a 5, 20 or 100 taka note</string>
     <string name="second_instruction">Flaten the note if its folded. Place the currency note on a table or any flat surface. Place the note in a lighted area with the side of the note with the heritage site illustration.</string>
-    <string name="third_instruction">Click on the ‘Open AR’ button of the Amar Oitijjho app. Now select Detect notes by Camera. The app will turn on the camera. Now hold the phone in front of the note. The app will not start identifying the currency note.</string>>
+    <string name="third_instruction">Click on the ‘Open AR’ button of the Amar Oitijjho app. Now select Detect notes by Camera. The app will turn on the camera. Now hold the phone in front of the note. The app will not start identifying the currency note.</string>
+    <string name="five_taka_title">Kusumba Mosque</string>
+    <string name="five_takah">Kusumba Mosque is one of the national heritage sites of Bangladesh which is situated in Manda Upazila of Naogaon district of Bangladesh. It is printed on 5 taka note. This mosque was built in 1558–59 and is often nicknamed as -The Black Gem of Bangladesh. The mosque has a rectangular plan with three bays and two aisles. The main fabric of the building is of brick the entire exterior walls and the interior up to the arches of the pendentives have stone facing. The columns, platform, floor, and perforated side screens are of stone.</string>
+    <string name="twenty_takat">60 Dome Mosque</string>
+    <string name="twenty_takah">The Sixty Dome Mosque is a mosque in Bagerhat, Bangladesh. It is a part of the Mosque City of Bagerhat, a UNESCO World Heritage Site. It is the largest mosque in Bangladesh from the sultanate period (1352–1576). It was built during the Bengal Sultanate by Khan Jahan Ali. It is printed on 20 taka note. The \"Sixty Dome\" Mosque has walls of unusually thick, tapered brick in the Tughlaq style and a hut-shaped roofline that anticipates later styles. The mosque has an oblong plan of 148\'6\" x 101\'4\" externally and 123\'3\" x 76\'2\" internally.There are 77 low domes arranged in seven rows of eleven, and one dome on each corner.</string>
+    <string name="hundred_takat">Tara Mosque</string>
+    <string name="hundred_takah">Star Mosque is a mosque located in Armanitola area, Dhaka, Bangladesh. The mosque has ornate designs and is decorated with motifs of blue stars. It was built in the first half of the 19th century by Mirza Golam Pir (Mirza Ahmed Jan). it is printed on 100 taka note. Built in the Mughal style by Mirza Ghulam in the late 18th century, this mosque was originally a simple rectangular mosque, measuring 33\' x 11\'. The mosque is decorated with Japanese and English china clay tiles and used both methods of the Chinitikri application.</string>
+
     <string name="fourth_instruction">When the note is identified, you will see the actual 3D model of the illustration on the note"s surface.</string>>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
